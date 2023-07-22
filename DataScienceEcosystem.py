@@ -23,8 +23,11 @@
 # 2. Scipy
 # 3. MatPlotLib
 
-# | Data Science Tools | Rstudio | Github | Jupyter lab |
-# | ------------- | ------- | ----------- | --------- |
+# | Data Science Tools |
+# | ------------- |
+# | RStudio |
+# | GitHub |
+# | Jupyterlab |
 
 # Below are few examples of evaluating arithmetic expressions in Python
 
